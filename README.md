@@ -59,7 +59,7 @@ go install github.com/ginozza/netpher@latest
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ginozza/netpher/blob/main/LICENSE) file for more details.
 
 ## Contributing
 
